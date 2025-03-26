@@ -22,7 +22,7 @@ A brief description of the steps performed by the liquid handling system is prov
 
 ## See also
 
-For information is provided in the [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41596-020-0338-0/MediaObjects/41596_2020_338_MOESM1_ESM.pdf) published in Gansauge et al. 2020. 
+More information is provided in the [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41596-020-0338-0/MediaObjects/41596_2020_338_MOESM1_ESM.pdf) published in Gansauge et al. 2020. 
 
 The electronic files are also available on [Zenodo](https://zenodo.org/records/3631147)
 
